@@ -1,0 +1,5 @@
+[{"id":1, "first_name":"aditya", "last_name":"kumar", "fullname":"aditya kumar","age":22},
+{"id":2, "first_name":"Bittu", "last_name":"kumar", "fullname":"Bittu Kumar", "age":13},
+{"id":3, "first_name":"Sonu", "last_name":"kumar", "fullname":"Sonu kumar", "age":34},
+{"id":4, "first_name":"Monu", "last_name":"kumar", "fullname":"Monu Kumar", "age":15}
+]
